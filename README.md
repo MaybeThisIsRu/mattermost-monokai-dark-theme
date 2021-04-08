@@ -4,6 +4,8 @@
 
 Reading on GitHub? See [my Gitea](https://git.rusingh.com/hirusi/mattermost-monokai-dark-theme) for source. I push to GitHub manually now and then, but sometimes I forget, and that's OK.
 
+Reading on Gitea, want to contribute but too overwhelmed? Here's [the GitHub](https://github.com/hirusi/mattermost-monokai-dark-theme).
+
 ## Motivation
 
 I was bored of the default dark themes.
