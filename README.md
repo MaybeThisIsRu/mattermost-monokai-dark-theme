@@ -2,9 +2,11 @@
 
 ...ish. Monokai-ish.
 
-Reading on GitHub? See [my Gitea](https://git.rusingh.com/hirusi/mattermost-monokai-dark-theme) for source. I push to GitHub manually now and then, but sometimes I forget, and that's OK.
+Screenshots are available on [my blog post](https://rusingh.com/2021/04/08/monokai-dark-theme-for-mattermost/).
 
-Reading on Gitea, want to contribute but too overwhelmed? Here's [the GitHub](https://github.com/hirusi/mattermost-monokai-dark-theme).
+Reading on GitHub? Be sure to check out [my Gitea](https://git.rusingh.com/hirusi/mattermost-monokai-dark-theme) for the latest.
+
+Reading on Gitea? Want to contribute but too overwhelmed? Here's [GitHub](https://github.com/hirusi/mattermost-monokai-dark-theme). I'll accept PRs on there and push to my Gitea.
 
 ## Motivation
 
